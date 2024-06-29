@@ -2,6 +2,8 @@
 
 <h1> Author : Yash Wasankar </h1>
 
+git init
+
 git clone "copy URl from Githib"
 
 file will be in local machine (here)
