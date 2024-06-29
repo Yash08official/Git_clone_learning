@@ -54,3 +54,15 @@ you can do
 
 HEAD : Pointing to the latest commit
 that 1 means "that only one commit you want to  undo or removed"
+
+
+<h2>If you do 3 4 commit and then you want to tralize that i do want to do it </h2>
+
+then same process as up above
+then used git log
+
+there is one unique id will be there of all commit copy it and then
+you used git reset unique_Id
+
+
+this is how you can reset multiple commit
